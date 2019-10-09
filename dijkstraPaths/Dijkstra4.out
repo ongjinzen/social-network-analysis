@@ -1,0 +1,27 @@
+Node 0
+  Distance
+    0 : X
+    1 : 2
+    2 : 0
+  Preds
+    0 : NULL
+    1 : [0]->NULL
+    2 : NULL
+Node 1
+  Distance
+    0 : 5
+    1 : X
+    2 : 0
+  Preds
+    0 : [1]->NULL
+    1 : NULL
+    2 : NULL
+Node 2
+  Distance
+    0 : 6
+    1 : 1
+    2 : X
+  Preds
+    0 : [1]->NULL
+    1 : [2]->NULL
+    2 : NULL

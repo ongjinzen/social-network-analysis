@@ -1,0 +1,65 @@
+Node 0
+  Distance
+    0 : X
+    1 : 68
+    2 : 62
+    3 : 63
+    4 : 2
+  Preds
+    0 : NULL
+    1 : [3]->NULL
+    2 : [4]->NULL
+    3 : [2]->NULL
+    4 : [0]->NULL
+Node 1
+  Distance
+    0 : 1
+    1 : X
+    2 : 1
+    3 : 2
+    4 : 2
+  Preds
+    0 : [1]->NULL
+    1 : NULL
+    2 : [1]->NULL
+    3 : [2]->NULL
+    4 : [1]->NULL
+Node 2
+  Distance
+    0 : 7
+    1 : 6
+    2 : X
+    3 : 1
+    4 : 2
+  Preds
+    0 : [1]->NULL
+    1 : [3]->NULL
+    2 : NULL
+    3 : [2]->NULL
+    4 : [3]->NULL
+Node 3
+  Distance
+    0 : 6
+    1 : 5
+    2 : 6
+    3 : X
+    4 : 1
+  Preds
+    0 : [1]->NULL
+    1 : [3]->NULL
+    2 : [1]->[3]->NULL
+    3 : NULL
+    4 : [3]->NULL
+Node 4
+  Distance
+    0 : 67
+    1 : 66
+    2 : 60
+    3 : 61
+    4 : X
+  Preds
+    0 : [1]->NULL
+    1 : [3]->NULL
+    2 : [4]->NULL
+    3 : [2]->NULL
+    4 : NULL

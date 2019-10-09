@@ -1,0 +1,19 @@
+
+addPQ: {1,100}
+addPQ: {2,15}
+addPQ: {3,1}
+addPQ: {4,4}
+addPQ: {5,3}
+Dequeued: {3,1}
+Dequeued: {5,3}
+Dequeued: {4,4}
+Dequeued: {2,15}
+Dequeued: {1,100}
+addPQ: {2,12}
+addPQ: {4,8}
+addPQ: {3,10}
+Update {4,8} to {4,11}
+Dequeued: {3,10}
+Dequeued: {4,11}
+Dequeued: {2,12}
+
